@@ -1,0 +1,11 @@
+{
+    "firstname" : "Chaitanya",
+    "lastname" : "Lakamsani",
+    "totalprice" : 200,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2022-06-01",
+        "checkout" : "2022-06-07"
+    },
+    "additionalneeds" : "Breakfast"
+}
